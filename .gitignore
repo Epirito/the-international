@@ -1,0 +1,23 @@
+# Build
+dist
+logs
+main.js
+
+# User's Push Information
+screeps.json
+config.yml
+
+# Visual Studio cache/options directory
+.vs
+
+# npm
+node_modules
+package-lock.json
+
+# Other Stuff
+.env
+log.log
+push.log
+/.VSCodeCounter
+tmp-test-server
+coverage
